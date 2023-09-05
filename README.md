@@ -42,7 +42,7 @@ https://voicenter-test-api.voicenter-ltd.workers.dev/api/site-data
 Then send the repository link to the following emails:
 - bohdan.ko@voicenter.com
 - nikita@voicenter.com
-
+- vitaliy.sk@voicenter.com
 
 ## Best of Luck 🍀
 This is your moment to shine, and we're looking forward to your participation. Best of luck, and remember to enjoy the process!
