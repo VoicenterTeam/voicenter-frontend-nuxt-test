@@ -20,7 +20,7 @@ The objective of this task is to create a simple web application using Nuxt 3 th
 
 
 - Use Nuxt 3 for building the application.
-- You are free to use any JavaScript or CSS library libraries that you find suitable for this task.
+- You are free to use any JavaScript or CSS libraries that you find suitable for this task.
 - Provide a README.md file with instructions on how to run the application.
 - Create a new public GitHub repository to host your project.
 - Push your Nuxt 3 Frontend Test Task project to the GitHub repository.
